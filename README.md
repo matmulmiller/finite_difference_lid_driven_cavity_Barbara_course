@@ -1,0 +1,1 @@
+This repo contains my scripts for using a finite difference scheme to solve a lid driven cavity flow for use in training a convolutional autoencoder + long short term memory network reduced order model. 
